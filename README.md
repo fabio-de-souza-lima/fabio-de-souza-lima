@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## OLá eu sou o Fabio de Souza .
+## Olá eu sou o Fabio de Souza .
 <div align="center">
   <a "https://github.com/fabio-de-souza-lima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabio-de-souza-lima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
  
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  <a href="https://lima-f@hotmail.com/"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=Hotmail&logoColor=white" target="_blank"></a>
+  <a href="https://lima-f@hotmail.com/"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=Hotmail.com&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
