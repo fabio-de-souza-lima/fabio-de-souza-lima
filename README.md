@@ -40,6 +40,8 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/Fabio-Souza-112943001385526/"><img src="https://img.shields.io/badge/-Facebook-%23333?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
  
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <a href="https://lima-f@hotmail.com/"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=Hotmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
