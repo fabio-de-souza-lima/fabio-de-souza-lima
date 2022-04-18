@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá eu sou o Fabio de Souza .
+## Olá! Seja bem vindo. Meu nome é Fabio de Souza  .
 <div align="center">
   <a "https://github.com/fabio-de-souza-lima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabio-de-souza-lima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
