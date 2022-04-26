@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 <div> 
   <a href="https://www.youtube"><img src="https://img.shields.io/badge/Acesse meu Site-FF0000?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/p/CGvsFhIJMC7/?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.facebook.com/Fabio-Souza-112943001385526/"><img src="https://img.shields.io/badge/-Facebook-%23333?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.facebook.com/Fabio-Souza-112943001385526/"><img src="https://img.shields.io/badge/-Facebook-%23333?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a> target="_blank"></a> 
   <a href="https://lima-f@hotmail.com/"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=Hotmail.com&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
