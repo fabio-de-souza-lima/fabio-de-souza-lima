@@ -19,8 +19,6 @@ Here are some ideas to get you started:
   <p align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250">
   
-  <p align="center">
-    <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="250">
 
 ## Olá! Seja bem vindo. Meu nome é Fabio de Souza Lima  .
 <div align="center">
