@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Olá mundo!
 
-  🔭 Web Full Stack Júnior
+  🔭 Desenvolvedor
 <!--
 **fabio-de-souza-lima/fabio-de-souza-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-    <p align="center">
-  <img src="https://codepen.io/Ilyatsuprun/pen/yLeOXaR/uploads/2016/09/super_imggato_digitando_0.gif" width="250">
-
+    
   
   <p align="center">
     <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="250">
