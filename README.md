@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-  <img src=https://codepen.io/Ilyatsuprun/pen/yLeOXaR/uploads/2016/09/super_imggato_digitando_0.gif" width="250">
+  <img src="https://codepen.io/Ilyatsuprun/pen/yLeOXaR/uploads/2016/09/super_imggato_digitando_0.gif" width="250">
 
   
   <p align="center">
