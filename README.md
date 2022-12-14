@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
+    <p align="center">
   <img src="https://codepen.io/Ilyatsuprun/pen/yLeOXaR/uploads/2016/09/super_imggato_digitando_0.gif" width="250">
 
   
