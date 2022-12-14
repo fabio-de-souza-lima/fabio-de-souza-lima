@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250">
   
 
-## Olá! Seja bem vindo. Meu nome é Fabio de Souza Lima  .
+##      Olá! Seja bem vindo. Eu me chamo Fabio de Souza Lima.
 <div align="center">
   <a "https://github.com/fabio-de-souza-lima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabio-de-souza-lima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <div/>
   
   ##
- 
+ <h3>Contatos:<h/3>
 <div> 
   <a href="https://fabio-de-souza-lima.github.io/profissional/"><img src="https://img.shields.io/badge/Acesse meu Site-FF0000?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
  <a href="https://www.facebook.com/Fabio-Souza-112943001385526/"><img src="https://img.shields.io/badge/-Facebook-%23333?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a> 
