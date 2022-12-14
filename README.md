@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+  <img src=https://codepen.io/Ilyatsuprun/pen/yLeOXaR/uploads/2016/09/super_imggato_digitando_0.gif" width="250">
+
+  
+  <p align="center">
+    <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="250">
 
 ## Olá! Seja bem vindo. Meu nome é Fabio de Souza Lima  .
 <div align="center">
@@ -23,8 +29,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabio-de-souza-lima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-de-souza-lima&layout=compact&langs_count=7&theme=dark"/>
     
-    <p align="center">
-    <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="250">
+    
 
   <h3>Ferramentas e Tecnologias</h3>
 <div> 
