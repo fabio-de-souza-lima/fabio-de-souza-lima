@@ -22,8 +22,7 @@ Here are some ideas to get you started:
   <a "https://github.com/fabio-de-souza-lima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabio-de-souza-lima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-de-souza-lima&layout=compact&langs_count=7&theme=dark"/>
-  
-    https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif
+
   <h3>Ferramentas e Tecnologias</h3>
 <div> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
