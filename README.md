@@ -51,22 +51,23 @@ Meu nome é **Fabio de Souza Lima** e sou desenvolvedor apaixonado por tecnologi
 
 ## 🌐 Onde me encontrar
 
+## 📬 Contato
+
 <div align="center">
+  <a href="mailto:fabioslima.ti@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/souzal-fabio/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Fabio%20Souza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://fabio-de-souza-lima.github.io/curriculo_profissional/" target="_blank">
-    <img src="https://img.shields.io/badge/Acesse meu Site-FF0000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfólio-Visite%20meu%20site-FF0000?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfólio" />
   </a>
   <a href="https://www.facebook.com/Fabio-Souza-112943001385526/" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-%23333?style=for-the-badge&logo=Facebook&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/fabio-de-souza-lima/" target="_blank">
-    <img src="https://github.com/fabio-de-souza-lima" />
-  </a>
-  <a href="mailto:lima-f@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-Fabio%20Souza-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </div>
 
----
 
 <p align="center">
   <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
