@@ -51,7 +51,6 @@ Meu nome é **Fabio de Souza Lima** e sou desenvolvedor apaixonado por tecnologi
 
 ## 🌐 Onde me encontrar
 
-## 📬 Contato
 
 <div align="center">
   <a href="mailto:fabioslima.ti@outlook.com" target="_blank">
@@ -69,7 +68,5 @@ Meu nome é **Fabio de Souza Lima** e sou desenvolvedor apaixonado por tecnologi
 </div>
 
 
-<p align="center">
-  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
+
 
