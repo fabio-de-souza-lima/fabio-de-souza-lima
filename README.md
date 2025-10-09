@@ -59,7 +59,7 @@ Meu nome é **Fabio de Souza Lima** e sou desenvolvedor apaixonado por tecnologi
     <img src="https://img.shields.io/badge/-Facebook-%23333?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/fabio-de-souza-lima/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://github.com/fabio-de-souza-lima" />
   </a>
   <a href="mailto:lima-f@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
