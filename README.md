@@ -18,7 +18,7 @@ Meu nome é **Fabio de Souza Lima** e sou desenvolvedor apaixonado por tecnologi
 - 💻 Desenvolvedor com experiência em front-end e back-end
 - 🌱 Atualmente aprendendo novas tecnologias e aprimorando habilidades
 - 🤝 Aberto a colaborações em projetos inovadores
-- 📬 Contato: lima-f@hotmail.com
+- 📬 Contato: lima-f@outlook.com
 
 ---
 
