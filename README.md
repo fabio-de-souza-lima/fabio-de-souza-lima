@@ -62,7 +62,7 @@ Meu nome é **Fabio de Souza Lima** e sou desenvolvedor apaixonado por tecnologi
   <a href="https://fabio-de-souza-lima.github.io/curriculo_profissional/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-Visite%20meu%20site-FF0000?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfólio" />
   </a>
-  <a href="https://www.facebook.com/Fabio-Souza-112943001385526/" target="_blank">
+  <a href="https://www.facebook.com/fabio.souza.1004/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Fabio%20Souza-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </div>
