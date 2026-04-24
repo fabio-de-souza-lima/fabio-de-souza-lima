@@ -22,8 +22,6 @@ Meu nome é **Fabio de Souza Lima** e sou desenvolvedor apaixonado por tecnologi
 
 ## 🛠️ Tecnologias e Ferramentas
 
-## 🛠️ Tecnologias e Ferramentas
-
 <div align="center">
   <table>
     <tr>
